@@ -1,0 +1,12 @@
+project:
+  title: "CoverType ML Pipeline (HIAST ML Course Task 1)"
+  output-dir: _output
+  type: default
+  render:
+    - CoverType_ML_Pipeline.ipynb
+
+format:
+  html:
+    author: "Ez Aldin Waez"
+    toc: true
+    toc-depth: 1
