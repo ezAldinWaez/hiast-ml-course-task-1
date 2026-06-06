@@ -10,3 +10,4 @@ format:
     author: "Ez Aldin Waez"
     toc: true
     toc-depth: 1
+    output-file: index
